@@ -1,0 +1,8 @@
+EmptyCavePath	KoboldRoom	GerblinRoom	HealingTile	FindGoldRoom
+FindGoldRoom	EmptyCavePath	EmptyCavePath	EmptyCavePath	EmptyCavePath
+EmptyCavePath	EmptyCavePath	FindAxeRoom	EmptyCavePath	KoboldRoom
+KoboldRoom	FindGoldRoom	StartingRoom	FindSpearRoom	GerblinRoom
+HugbearRoom	EmptyCavePath	FindKnifeRoom	EmptyCavePath	FindGoldRoom
+EmptyCavePath	EmptyCavePath	EmptyCavePath	EmptyCavePath	KoboldRoom
+GerblinRoom	EmptyCavePath	GerblinRoom	KoboldRoom	EmptyCavePath
+FindGoldRoom	EmptyCavePath	HugbearRoom	HealingTile	FindGoldRoom
